@@ -1,4 +1,4 @@
-//after editing i cannot check the task 
+//checkbox is not working after editing
 // 6. Add a search bar to search for a specific todo
 // 7. Whenever i refresh the page, the todos should still be there always
 
